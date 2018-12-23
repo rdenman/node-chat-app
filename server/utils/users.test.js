@@ -19,7 +19,7 @@ describe('Users', () => {
       id: '3',
       name: 'Rick',
       room: 'Node Course'
-    }]
+    }];
   });
 
   it('should add new user', () => {
